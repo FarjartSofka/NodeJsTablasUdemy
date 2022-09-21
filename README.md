@@ -1,4 +1,4 @@
-# NodeJsTablasUdemy
+# NodeJsTablas
 
 Programa en nodeJs en donde se podra realizar la creacion de un archivo que recibe la base y lo multiplica por las veces que se le indica.
 
