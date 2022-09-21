@@ -1,0 +1,24 @@
+{
+  "name": "01-tablasmultiplicar",
+  "version": "0.0.1",
+  "description": "Imprimir tablas de multiplicar con guardar archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base9": "node app --base=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarjartSofka/NodeJsTablasUdemy.git"
+  },
+  "author": "Farly Artunduaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FarjartSofka/NodeJsTablasUdemy/issues"
+  },
+  "homepage": "https://github.com/FarjartSofka/NodeJsTablasUdemy#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
